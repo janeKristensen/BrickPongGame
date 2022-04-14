@@ -1,0 +1,131 @@
+﻿  Ball.cpp
+  Brick.cpp
+  ScoreBoard.cpp
+D:\Visual Studio stuff\Projekts\NewGame\ScoreBoard.cpp(47,34): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  UI.cpp
+  NewGame.cpp
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(40,66): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(40,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(52,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(53,31): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(57,31): warning C4244: '=': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(64,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(65,30): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(70,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(71,33): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(76,38): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(77,38): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(151,68): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(151,56): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(156,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(156,61): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(160,72): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(160,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(185,17): warning C4101: 'temp': unreferenced local variable
+D:\Visual Studio stuff\Projekts\NewGame\NewGame.cpp(233,17): warning C4101: 'temp': unreferenced local variable
+  Paddle.cpp
+D:\Visual Studio stuff\Projekts\NewGame\Paddle.cpp(79,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  GameText.cpp
+  TextureHolder.cpp
+  Generating Code...
+  NewGame.vcxproj -> D:\Visual Studio stuff\Projekts\NewGame\Debug\NewGame.exe
